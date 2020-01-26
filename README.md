@@ -1,8 +1,9 @@
 # BasicTrieTree
-The last project in C-class.
 
 #### Description:
-In this project we build a basic trie-tree. Words that are represented only in lowercase can be stored in the tree.
+In this project we build a basic trie-tree.
+
+Words that are represented only in lowercase can be stored in the tree.
 
 There are two printing functions:
 * printAllWords -Print the list of words seen in the input along with the number of occurrences per word in ascending lexicographic order.
